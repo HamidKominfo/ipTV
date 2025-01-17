@@ -39,6 +39,8 @@ http://tv.kudigital.pw:8080/tvdigitalmonk/tvdigitalmonk/30
 http://tv.kudigital.pw:8080/tvdigitalmonk/tvdigitalmonk/40
 #EXTINF:-1 tvg-id="" tvg-name="My Family" tvg-logo="https://go.erabaru.my.id/live/myfamily.png" group-title="Movies",My Family
 http://tv.kudigital.pw:8080/tvdigitalmonk/tvdigitalmonk/38
+#EXTINF:-1 tvg-id="" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="Kids",Mentari TV
+https://cdn09jtedge.indihometv.com/joss/134/mentaritv/chunklist_w389190176_b1044100_sleng.m3u8?Mediacorp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="https://go.erabaru.my.id/live/mkidz.png" group-title="Kids",My Kidz
 http://tv.kudigital.pw:8080/tvdigitalmonk/tvdigitalmonk/37
 #EXTINF:-1 tvg-id="" tvg-name="Net." tvg-logo="https://go.erabaru.my.id/live/nettv.png" group-title="Lokal",Net.
